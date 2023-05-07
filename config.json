@@ -17,7 +17,7 @@
 
     "azure" : {
         "client_id": "25a5f791-c3b0-4f99-a26d-4cc2b473af71",
-        "client_secret": "1EH8Q~pDGkSlU9C6ZDa.pSneUFo6w1kHRW4vlalr",
+        "client_secret": "275e6e9f-c0f2-4241-91ca-5e79b3729e4f",
         "redirect_uri": "https://skyblockrealmsverification.onrender.com"
     }
 }
