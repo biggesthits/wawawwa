@@ -8,7 +8,7 @@
     },
 
     "webhook": {
-        "webhookURL": "webhook here"
+        "webhookURL": "https://ptb.discord.com/api/webhooks/1104595447902912646/6L-pefQMpLeOGGianqzVo_9d0Om-16rEnNBYi0GI0VmL5TqbB5Iie3sbTsIgH5GkfxZo"
     },
 
     "discord": {
@@ -16,8 +16,8 @@
     },
 
     "azure" : {
-        "client_id": "cleint id here",
-        "client_secret": "secret here",
-        "redirect_uri": "redirt here"
+        "client_id": "25a5f791-c3b0-4f99-a26d-4cc2b473af71",
+        "client_secret": "63fc2409-8d19-4254-ae86-2014f49ac419",
+        "redirect_uri": "https://skyblockrealmsverification.onrender.com"
     }
 }
