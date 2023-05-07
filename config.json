@@ -1,0 +1,23 @@
+{
+    "networth": {
+        "apiKey": "insert apikey here"
+    },
+
+    "URLS": {
+        "apiURL": ""
+    },
+
+    "webhook": {
+        "webhookURL": "webhook here"
+    },
+
+    "discord": {
+        "bot_token": ""
+    },
+
+    "azure" : {
+        "client_id": "cleint id here",
+        "client_secret": "secret here",
+        "redirect_uri": "redirt here"
+    }
+}
